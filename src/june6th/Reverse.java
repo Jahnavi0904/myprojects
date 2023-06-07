@@ -1,5 +1,7 @@
 package june6th;
 
+import java.util.Arrays;
+
 public class Reverse {
 
     static int[] reverse(int arr[], int n) {
@@ -15,10 +17,6 @@ public class Reverse {
     public static void main(String[] args) {
         int[] numbers = {9, 6, 5, 8, 89, 7, 10, 12};
         int[] reversedArray = reverse(numbers, numbers.length);
-        System.out.println("Reversed Array:");
-        for (int num : reversedArray) {
-            System.out.print(num + " ");
-
-        }
+        System.out.println("Reversed Array:"+ Arrays.toString(reversedArray));
     }
 }
