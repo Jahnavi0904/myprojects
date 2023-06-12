@@ -1,4 +1,5 @@
-public class Reverse {
+package june8;
+public class Reverse{
     public static void main(String[] args) {
         String str1 = "jashkjui is hyte";
         String[] words = str1.split(" ");

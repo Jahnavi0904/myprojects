@@ -1,4 +1,4 @@
-package stringlibraries;
+package june8;
 public class Rotation {
 
     public static boolean isRotation(String str1, String str2) {

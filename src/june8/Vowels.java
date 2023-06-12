@@ -1,6 +1,4 @@
-package stringlibraries;
-
-import java.util.Arrays;
+package june8;
 
 public class Vowels {
     public static void main(String[] args){
