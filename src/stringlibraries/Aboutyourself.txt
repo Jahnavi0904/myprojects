@@ -1,0 +1,9 @@
+Hi I am JahnaviKatta Currently working in XXXXX as a Full Stack Developer.
+I have 8 years of professional experience in software application development, Testing, Maintenance and Production Support.
+So being a full stack developer, I used java for backend functionalities and frameworks, react js and various virtualization libraries for  front end.
+Throughout my carrier I used various technologies like JEE, Spring, Html, CSS, JSP, Angular, Spring, Hibernate, Git, Kubernetes for development purpose.
+All major AWS Services for development. I also have participated in trouble shooting the production support ticket.
+
+We have basically automated the claim settlement process instead of doing it manually. Our application basically does this through automation process depending upon the claim document. So, we upload the claim document and based on the properties in the claim document and based on the historical data and other stuff our application decides whether the claim must be processed or declined or send it to manual verification. We have Implemented SPRING MVC architecture where the request comes from client/ UI to controller and from controller it goes to Service class and from there it goes to Repository class where we basically write our JPA queries or native queries to the database and after the query fetches the data in the form of response it comes back to service class method and to controller class method and directly to UI. 
+
+We were currently working on agile methodology and we upload all our user stories to Jira which is used as production management tool in our company.
