@@ -26,6 +26,5 @@ public class SumIndices {
         } else {
             System.out.println("No two elements sum up to the target.");
         }
-
     }
 }
